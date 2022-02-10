@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class conventionsAndSyntax : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
          //this line tells me the x position of my object
@@ -21,7 +20,6 @@ public class conventionsAndSyntax : MonoBehaviour
     }
 }
 
-    // Update is called once per frame
     void Update()
     {
         
