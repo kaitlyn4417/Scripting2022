@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be767a46-4451-4e69-a4e3-93048e61a751" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Course Library/_Source_Files/Textures/Skybox_Diff.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course Library/_Source_Files/Textures/Skybox_Diff.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UserSettings/EditorUserSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="be767a46-4451-4e69-a4e3-93048e61a751" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647470996312</updated>
       <workItem from="1647471005867" duration="1083000" />
-      <workItem from="1647472860238" duration="4539000" />
+      <workItem from="1647472860238" duration="4621000" />
     </task>
     <servers />
   </component>
