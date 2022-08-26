@@ -18,10 +18,9 @@ public class conventionsAndSyntax : MonoBehaviour
             Debug.Log ("I'm about to hit the ground!");
         }
     }
-}
-
-    void Update()
-    {
+		void Update()
+    		{
         
-    }
+    		}
+
 }

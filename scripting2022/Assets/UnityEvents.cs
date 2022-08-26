@@ -12,9 +12,9 @@ public class NewBehaviourScript : MonoBehaviour
 	{
 		awakeEvent.Invoke();
 	} 
-
-    // Start is called before the first frame update
-    void IEnumerator Start()
+	
+	// Start is called before the first frame update
+	private IEnumerator Start()
     {
         yield return new WaitForSeconds(holdTime);
 		startEvent.Invoke();

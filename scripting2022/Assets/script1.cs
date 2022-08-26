@@ -8,7 +8,7 @@ public class script1 : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.R))
         {
-            Get Component<Renderer>().material.color = Color.red;
+            GetComponent<Renderer>().material.color = Color.red;
         }
 
         if (Inpute.GetKeyDown(KeyCode.G))

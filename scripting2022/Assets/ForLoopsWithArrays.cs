@@ -8,7 +8,7 @@ public class ForLoopsWithArrays : MonoBehaviour
     {
         string[] veggies = {"Carrots", "Cucumbers", "Green Peppers", "Broccoli"};
         
-        for(int i = 0, i < veggies.Length, i++)
+        for(int i = 0; i < veggies.Length; i++)
         {
             Console.WriteLine(veggies[i]);
         }
